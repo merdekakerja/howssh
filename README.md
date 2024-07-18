@@ -35,7 +35,8 @@
     <meta content="en_US" property="og:locale" />
     <meta content="en_GB" property="og:locale:alternate" />
     <meta content="id_ID" property="og:locale:alternate" />
-    <script data-ad-client="ca-pub-2683295470677090" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5760475094470696"
+     crossorigin="anonymous"></script>
     <script src="https://darkssh.com/assets/js/app.js?id=346467b23c2587458e0d465da4df850a" defer></script>
 </head>
 
